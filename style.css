@@ -1,0 +1,55 @@
+body{
+    background-color:green;
+}
+nav{
+    width:100%;
+    background-color: black;
+    position: sticky;
+    border: 2px solid white;
+    justify-content: center;
+}
+li{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    display: inline-block;
+    margin:20px;
+
+}
+#il{
+    position: absolute;
+    right:10px;
+}
+#if{
+    position: absolute;
+    right:70px;
+    color:white;
+}
+
+h1{
+    color: white;
+    display: inline-block;
+    position: absolute;
+    left:50%;
+}
+#h{
+    color: yellow;
+    left:40%;
+}
+h2{
+    color:white;
+    display: inline-block;
+    position: relative;
+    bottom:60px;
+    left:10px;
+}
+#img1{
+    height: 30vh;
+    width: 30vw;
+    display: inline-block;
+}
+div{
+    width: 300px;
+    width: 100px;
+    border:2px solid black;
+}
